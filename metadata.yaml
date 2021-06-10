@@ -1,0 +1,25 @@
+_repo: Flight-Into-the-Unknown_65377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harris, Tom W.
+    gutenberg_agent_id: '34273'
+    url: http://www.gutenberg.org/2009/agents/34273
+description: ''
+gutenberg_issued: '2021-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Television programs -- Fiction'
+- !lcsh 'Space flight -- Fiction'
+- GITenberg
+title: Flight Into the Unknown
+url: http://www.gutenberg.org/ebooks/65377
